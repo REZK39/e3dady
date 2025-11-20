@@ -1,0 +1,8 @@
+{
+  "name": "Port Said Engineering GPA",
+  "description": "An advanced GPA calculator and AI assistant for the Faculty of Engineering, Port Said University. Features grade management, transcript analysis, and AI tutoring.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
